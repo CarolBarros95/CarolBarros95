@@ -1,16 +1,39 @@
-## Hi there 👋
+## Oi! Eu sou a Carolina 👋
 
-<!--
-**CarolBarros95/CarolBarros95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Front-End em formação  
+🎯 Foco atual em HTML, CSS e JavaScript 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+
+**Front-End**
+- HTML5
+- CSS3
+- Git & GitHub
+- JavaScript (em aprendizado)
+
+**Experiência acadêmica / prática**
+- Java
+- Python
+- PHP
+- Banco de Dados (modelagem e SQL)
+
+> Tive contato com essas tecnologias durante cursos e projetos acadêmicos.  
+> Atualmente, meu foco é aprofundar no Front-End, com prática contínua.
+
+---
+
+### 📌 Projetos
+- Reproduzindo Landing Page (porém com modificações minhas)
+  🔗 https://carolbarros95.github.io/reproduzindo-landingpage-Rafaella-Ballerini/
+
+---
+
+### 📚 Atualmente estudando
+- JavaScript
+- Lógica de programação
+- Boas práticas em Front-End
+- Construção de portfólio
+
+✨ Perfil em constante evolução.
