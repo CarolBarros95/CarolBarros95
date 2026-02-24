@@ -25,7 +25,7 @@
 ---
 
 ### 📌 Projetos
-- Reproduzindo Landing Page (porém com modificações minhas)
+- Reproduzindo Landing Page (porém com modificações)
   🔗 https://carolbarros95.github.io/reproduzindo-landingpage-Rafaella-Ballerini/
 
 ---
@@ -35,5 +35,6 @@
 - Lógica de programação
 - Boas práticas em Front-End
 - Construção de portfólio
+- .NET e IA (Bootcamp DIO com a Avanade)
 
 ✨ Perfil em constante evolução.
